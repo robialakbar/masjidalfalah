@@ -33,6 +33,7 @@
               <option>- Pilih -</option>
               <option>Administrator</option>
               <option>Bendahara</option>
+              <option>Jemaah</option>
           </select>
       </div>
       </div>

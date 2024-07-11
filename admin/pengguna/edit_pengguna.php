@@ -50,6 +50,9 @@
 
                 if ($data_cek['level'] == "Bendahara") echo "<option value='Bendahara' selected>Bendahara</option>";
                 else echo "<option value='Bendahara'>Bendahara</option>";
+                
+                if ($data_cek['level'] == "Jemaah") echo "<option value='Jemaah' selected>Bendahara</option>";
+                else echo "<option value='Jemaah'>Jemaah</option>";
             ?>
         </select>
       </div>
